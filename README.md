@@ -1,0 +1,2 @@
+# gitduplicate
+test2
